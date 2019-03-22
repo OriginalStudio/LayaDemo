@@ -1,0 +1,5 @@
+<page>
+   <item name="MainScene.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="LoadView.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="MainView.scene" props="" ifExport="内嵌模式" aName=""/>
+</page>
